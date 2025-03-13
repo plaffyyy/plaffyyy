@@ -11,5 +11,5 @@ Spring Framework, GIT, SQL, Docker, docker-compose, Kafka, Linux, PostgreSQL, JP
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1-fETUQL-XW4BRYip4pBD4nLoZv_RiSEV/view?usp=sharing)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://drive.google.com/file/d/1tslkfMdDgPU614-hgoQaJn7me0jwTwUS/view?usp=sharing)
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/plaffyyy)
